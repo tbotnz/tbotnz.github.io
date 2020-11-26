@@ -1,1 +1,3 @@
-site_name: netpalm
+site_name: netpalm-docs
+theme:
+    name: material
